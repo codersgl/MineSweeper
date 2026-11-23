@@ -1,4 +1,4 @@
-This is MineSweeper game writed by C, it is easy and just for fun.
+This is a Minesweeper game written in C. It's simple and just for fun.
 
 ## Usage
 
