@@ -2,7 +2,7 @@ This is a Minesweeper game written in C. It's simple and just for fun.
 
 ## screenshot
 
-![screenshot](./asserts/screenshot.png)
+![screenshot](./assets/screenshot.png)
 
 ## Usage
 
